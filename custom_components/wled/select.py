@@ -1,4 +1,8 @@
-"""Support for LED selects."""
+"""
+Support for LED selects. 
+This is modified from https://github.com/home-assistant/core/tree/dev/homeassistant/components/wled/select.py to include 
+updates to palette selectors.
+"""
 
 from __future__ import annotations
 
